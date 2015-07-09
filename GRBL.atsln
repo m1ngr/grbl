@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "GRBL", "GRBL.cproj", "{95C9C0E8-962F-4C3A-821F-0B268C0790B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95C9C0E8-962F-4C3A-821F-0B268C0790B8}.Debug|AVR.ActiveCfg = Debug|AVR
+		{95C9C0E8-962F-4C3A-821F-0B268C0790B8}.Debug|AVR.Build.0 = Debug|AVR
+		{95C9C0E8-962F-4C3A-821F-0B268C0790B8}.Release|AVR.ActiveCfg = Release|AVR
+		{95C9C0E8-962F-4C3A-821F-0B268C0790B8}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
